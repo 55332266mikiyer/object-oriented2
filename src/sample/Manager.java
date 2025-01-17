@@ -1,4 +1,6 @@
-package sample.Package2;
+package sample;
+
+import sample.Package2.Employee;
 
 public class Manager extends Employee {
 
